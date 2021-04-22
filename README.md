@@ -11,20 +11,28 @@
 <h1>Design Patterns Java (gof)</h1>
 
 <h3>Factory Method</h3>
+[see example](src/com/company/designPatterns/factoryMethod)
 
-[a link](src/com/company/designPatterns/factoryMethod)
-
-<h4>criacional</h4>
 <p>Definir uma interface para criar um objeto, mas deixar as subclasses decidirem que
 classe instanciar. O Factory Method permite adiar a instanciação para subclasses.</p>
 
+<hr>
 <h3>Abstract Factory</h3>
+
+[see example](src/com/company/designPatterns/abstractFactory)
+
 <p>Fornecer uma interface para criação de famílias de objetos relacionados ou dependentes sem especificar suas classes concretas.</p>
 
+<hr>
 <h3>Adapter</h3>
+
+[see example](src/com/company/designPatterns/adapter)
+
 <p>Converter a interface de uma classe em outra interface, esperada pelos clientes. O
 Adapter permite que classes com interfaces incompatíveis trabalhem em conjunto –
 o que, de outra forma, seria impossível.</p>
+
+<hr>
 
 _<p>Fonte: Padrões de Projeto ‑ Soluções Reutilizaveis de Software - 1994
 Erich Gamma, John Vlissides, Richard Helm, Ralph Johnson<p>_
