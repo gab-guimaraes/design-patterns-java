@@ -11,7 +11,9 @@
 <h1>Design Patterns Java (gof)</h1>
 
 <h3>Factory Method</h3>
-[a relative link](src/com/company/designPatterns/factoryMethod)
+
+[a link](src/com/company/designPatterns/factoryMethod)
+
 <h4>criacional</h4>
 <p>Definir uma interface para criar um objeto, mas deixar as subclasses decidirem que
 classe instanciar. O Factory Method permite adiar a instanciação para subclasses.</p>
