@@ -1,4 +1,4 @@
-**S.O.L.I.D - Java**
+<h1>S.O.L.I.D - Java</h1>
 
 <li>Single Responsability: cada classe deve ter uma unica funcao e objetivo</li>
 <li>Open/Close: Aberto para extensao, fechado para alteracao</li>
@@ -6,11 +6,9 @@
 <li>Interface Segregation: Nenhum cliente deve ser forçado a depender de metodos que nao utiliza (interfaces infladas)</li>
 <li>Dependency Inversion: Desacoplar logica de negocio das camadas de baixo nivel com o uso de abstracoes</li>
 
-**Design Patterns Java (gof)** 
+<hr>
 
-<li>criacionais</li>
-<li>estrutural</li>
-<li>comportamental</li>
+<h1>Design Patterns Java (gof)</h1>
 
 <h3>Factory Method</h3>
 <h4>criacional</h4>
