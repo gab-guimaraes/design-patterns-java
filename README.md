@@ -34,5 +34,12 @@ o que, de outra forma, seria impossível.</p>
 
 <hr>
 
+<h3>Decorator</h3>
+
+<p>Dinamicamente, agregar responsabilidades adicionais a um objeto. Os Decorators
+fornecem uma alternativa flexível ao uso de subclasses para extensão de funcionalidades.</p>
+
+[see example](src/com/company/designPatterns/decorator)
+
 _<p>Fonte: Padrões de Projeto ‑ Soluções Reutilizaveis de Software - 1994
 Erich Gamma, John Vlissides, Richard Helm, Ralph Johnson<p>_
